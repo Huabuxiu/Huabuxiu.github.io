@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "周五在家"
-date:   2018-05-04 00:55:40
-preview:http://otfo1htmj.bkt.clouddn.com/IMG_20180413_173923-01.jpeg
+date:   2018-05-04 00:53:40
+preview: http://otfo1htmj.bkt.clouddn.com/IMG_20180413_173923-01.jpeg
 ---
+
 ![pic1](http://otfo1htmj.bkt.clouddn.com/IMG_20180413_173923-01.jpeg)
