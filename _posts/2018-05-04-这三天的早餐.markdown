@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "这三天的早餐"
+date:   2018-05-04 00:53:40
+preview: http://otfo1htmj.bkt.clouddn.com/OI000026-01.jpeg
+---
+
+![pic1](http://otfo1htmj.bkt.clouddn.com/OI000026-01.jpeg)
+![pi](http://otfo1htmj.bkt.clouddn.com/OI000024-01.jpeg)
+![pic3](http://otfo1htmj.bkt.clouddn.com/OI000001-01.jpeg)

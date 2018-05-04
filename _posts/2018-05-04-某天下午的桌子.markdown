@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "某天下午的桌子"
+date:   2018-05-04 00:53:40
+preview: http://otfo1htmj.bkt.clouddn.com/OI000008-01.jpeg
+---
+
+![pic1](http://otfo1htmj.bkt.clouddn.com/OI000008-01.jpeg)

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "显示器桌子"
+date:   2018-05-04 00:53:40
+preview: http://otfo1htmj.bkt.clouddn.com/OI000031-01.jpeg
+---
+
+
+![pic1](http://otfo1htmj.bkt.clouddn.com/OI000031-01.jpeg)
