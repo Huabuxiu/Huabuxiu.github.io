@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "周五在家"
+date:   2018-05-04 00:53:40
+preview: http://otfo1htmj.bkt.clouddn.com/18-5-8/96220768.jpg
+---
+
+这是两个链接我学习用
+> https://blog.igevin.info/posts/flask-startup-guideline/
+https://www.cnblogs.com/liuzhen1995/p/8001040.html
